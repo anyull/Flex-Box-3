@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+.modeloCaja {
+    height: 100px;
+    background-color: rgb(255, 157, 10);
+    background-image: url(/images/casa.png);
+    border: solid 5px rgb(0, 0, 0)
+}
